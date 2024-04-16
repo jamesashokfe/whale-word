@@ -3,8 +3,76 @@
 	"settings": {
 		"appearanceTools": true,
 		"layout": {
-			"contentSize": "620px",
-			"wideSize": "1000px"
+			"contentSize": "640px",
+			"wideSize": "1024px"
+		},
+		"color": {
+			"custom": true,
+			"defaultPalette": false,
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"palette": [
+				{
+					"color": "#000000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#333333",
+					"name": "Dark Grey",
+					"slug": "dark-grey"
+				},
+				{
+					"color": "#001a33",
+					"name": "Dark Blue 10",
+					"slug": "dark-blue-10"
+				},
+				{
+					"color": "#003366",
+					"name": "Dark Blue 20",
+					"slug": "dark-blue-20"
+				},
+				{
+					"color": "#004d99",
+					"name": "Dark Blue 30",
+					"slug": "dark-blue-30"
+				},
+				{
+					"color": "#0066cc",
+					"name": "Dark Blue 40",
+					"slug": "dark-blue-40"
+				},
+				{
+					"color": "#0080ff",
+					"name": "Blue 50",
+					"slug": "blue-50"
+				},
+				{
+					"color": "#3399ff",
+					"name": "Light Blue 60",
+					"slug": "light-blue-60"
+				},
+				{
+					"color": "#66b3ff",
+					"name": "Light Blue 70",
+					"slug": "light-blue-70"
+				},
+				{
+					"color": "#99ccff",
+					"name": "Light Blue 80",
+					"slug": "light-blue-80"
+				},
+				{
+					"color": "#cce6ff",
+					"name": "Light Blue 90",
+					"slug": "light-blue-90"
+				},
+				{
+					"color": "#ffffff",
+					"name": "White",
+					"slug": "white"
+				}
+			]
 		},
 		"spacing": {
 			"units": [ "%", "px", "em", "rem", "vh", "vw" ]

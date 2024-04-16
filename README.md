@@ -1,2 +1,2 @@
 # whale-word
-A custom wordpress theme
+A practice wordpress theme
